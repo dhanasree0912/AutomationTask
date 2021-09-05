@@ -1,0 +1,71 @@
+﻿<Properties StartupConfiguration="{6D125B27-C617-4421-8D6F-A10188B5F80D}|Default">
+  <MonoDevelop.Ide.ItemProperties.UIAutomation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIAutomation/APIAutomationTests.cs">
+    <Files>
+      <File FileName="AutomationTask/Utilities/UIActions.cs" Line="95" Column="1" IsPinned="True" />
+      <File FileName="AutomationTask/BaseClass/BaseClass.cs" />
+      <File FileName="AutomationTask/WebElements/WebElements.cs" />
+      <File FileName="AutomationTask/Verifications/Verify.cs" />
+      <File FileName="APIAutomation/UnitTest1.cs" Line="24" Column="45" />
+      <File FileName="APIAutomation/JsonClass.cs" Line="32" Column="2" />
+      <File FileName="APIAutomation/APIHelper.cs" Line="2" Column="17" />
+      <File FileName="ReportGenerator/Reporter.cs" Line="17" Column="38" />
+      <File FileName="APIAutomation/TestData/TestData.xml" Line="19" Column="1" />
+      <File FileName="AutomationTask/UIAutomationTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Selenium_Automation" expanded="True">
+            <Node name="APIAutomation" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="APIAutomationTests.cs" selected="True" />
+            </Node>
+            <Node name="AutomationTask" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="ReportGenerator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Url</Value>
+          <Value>driver</Value>
+          <Value>ElapsedMilliseconds</Value>
+          <Value>links</Value>
+          <Value>links</Value>
+          <Value>placename</Value>
+          <Value>result</Value>
+          <Value>TestContext</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Selenium_Automation" expanded="True">
+            <Node name="APIAutomation" expanded="True">
+              <Node name="APIAutomation" expanded="True">
+                <Node name="APIAutomationTests" expanded="True">
+                  <Node name="VerifyCountry_State" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/Selenium_Automation/Selenium_Automation/UnitTest1.cs" relfile="Selenium_Automation/UnitTest1.cs" line="30" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/Selenium_Automation/Selenium_Automation/UnitTest1.cs" relfile="Selenium_Automation/UnitTest1.cs" line="21" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/Selenium_Automation/Selenium_Automation/UnitTest1.cs" relfile="Selenium_Automation/UnitTest1.cs" line="15" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/Selenium_Automation/AutomationTask/UIAutomationTests.cs" relfile="AutomationTask/UIAutomationTests.cs" line="28" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/Selenium_Automation/AutomationTask/Reporter.cs" relfile="AutomationTask/Reporter.cs" line="24" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/Selenium_Automation/APIAutomation/APIHelper.cs" relfile="APIAutomation/APIHelper.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

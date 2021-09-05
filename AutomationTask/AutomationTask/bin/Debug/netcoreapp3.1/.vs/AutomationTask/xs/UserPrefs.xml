@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CEBF1F90-CCCD-4F67-943A-22E624975C5C}|Default">
+  <MonoDevelop.Ide.ItemProperties.AutomationTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutomationTask" expanded="True">
+            <Node name="AutomationTask" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Url</Value>
+          <Value>driver</Value>
+          <Value>ElapsedMilliseconds</Value>
+          <Value>links</Value>
+          <Value>links</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chandu/Desktop/AutomationProject/AutomationTask/APIAutomation/APIAutomation.csproj": {}
+  },
+  "projects": {
+    "/Users/chandu/Desktop/AutomationProject/AutomationTask/APIAutomation/APIAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chandu/Desktop/AutomationProject/AutomationTask/APIAutomation/APIAutomation.csproj",
+        "projectName": "APIAutomation",
+        "projectPath": "/Users/chandu/Desktop/AutomationProject/AutomationTask/APIAutomation/APIAutomation.csproj",
+        "packagesPath": "/Users/chandu/.nuget/packages/",
+        "outputPath": "/Users/chandu/Desktop/AutomationProject/AutomationTask/APIAutomation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chandu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/chandu/Desktop/AutomationProject/AutomationTask/ReportGenerator/ReportGenerator.csproj": {
+                "projectPath": "/Users/chandu/Desktop/AutomationProject/AutomationTask/ReportGenerator/ReportGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            },
+            "RestSharp.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chandu/Desktop/AutomationProject/AutomationTask/ReportGenerator/ReportGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chandu/Desktop/AutomationProject/AutomationTask/ReportGenerator/ReportGenerator.csproj",
+        "projectName": "ReportGenerator",
+        "projectPath": "/Users/chandu/Desktop/AutomationProject/AutomationTask/ReportGenerator/ReportGenerator.csproj",
+        "packagesPath": "/Users/chandu/.nuget/packages/",
+        "outputPath": "/Users/chandu/Desktop/AutomationProject/AutomationTask/ReportGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chandu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

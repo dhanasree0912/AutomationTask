@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{65091C27-D8FD-4F18-89F3-ECE69306AA0A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutomationTask/UIAutomationTests.cs">
+    <Files>
+      <File FileName="AutomationTask/Utilities/UIActions.cs" Line="12" Column="23" IsPinned="True" />
+      <File FileName="AutomationTask/BaseClass/BaseClass.cs" />
+      <File FileName="AutomationTask/WebElements/WebElements.cs" />
+      <File FileName="AutomationTask/Verifications/Verify.cs" />
+      <File FileName="APIAutomation/JsonClass.cs" />
+      <File FileName="APIAutomation/APIHelper.cs" />
+      <File FileName="ReportGenerator/Reporter.cs" />
+      <File FileName="APIAutomation/TestData/TestData.xml" />
+      <File FileName="AutomationTask/UIAutomationTests.cs" Line="71" Column="38" />
+      <File FileName="APIAutomation/APIAutomationTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutomationTask" expanded="True">
+            <Node name="APIAutomation" expanded="True" />
+            <Node name="UIAutomation" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UIAutomationTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.APIAutomation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/AutomationTask/Selenium_Automation/UnitTest1.cs" relfile="Selenium_Automation/UnitTest1.cs" line="30" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/AutomationTask/Selenium_Automation/UnitTest1.cs" relfile="Selenium_Automation/UnitTest1.cs" line="21" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/AutomationTask/Selenium_Automation/UnitTest1.cs" relfile="Selenium_Automation/UnitTest1.cs" line="15" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/AutomationTask/AutomationTask/Reporter.cs" relfile="AutomationTask/Reporter.cs" line="24" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/AutomationTask/APIAutomation/APIHelper.cs" relfile="APIAutomation/APIHelper.cs" line="19" column="1" />
+      <Breakpoint file="/Users/chandu/Desktop/AutomationProject/AutomationTask/AutomationTask/Verifications/Verify.cs" relfile="AutomationTask/Verifications/Verify.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

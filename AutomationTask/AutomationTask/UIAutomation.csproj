@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="92.0.4515.10700" />
+    <PackageReference Include="Selenium.Support" Version="3.141.0" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.7" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Selenium.WebDriver" />
+    <None Remove="Selenium.WebDriver.ChromeDriver" />
+    <None Remove="Selenium.Support" />
+    <None Remove="BaseClass\" />
+    <None Remove="WebElements\" />
+    <None Remove="Utilities\" />
+    <None Remove="Verifications\" />
+    <None Remove="NUnit.Console" />
+    <None Remove="NUnit.ConsoleRunner" />
+    <None Remove="NUnit.Allure" />
+    <None Remove="MSTest.TestFramework" />
+    <None Remove="MSTest.TestAdapter" />
+    <None Remove="ExtentReports" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BaseClass\" />
+    <Folder Include="WebElements\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Verifications\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReportGenerator\ReportGenerator.csproj" />
+  </ItemGroup>
+</Project>

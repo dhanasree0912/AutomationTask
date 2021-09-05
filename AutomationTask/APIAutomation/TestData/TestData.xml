@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CountryNames>
+    <CountryName1>
+        <CountryCode>us</CountryCode>
+        <PostalCode>90210</PostalCode>
+        <CityName>Beverly Hills</CityName>
+    </CountryName1>
+    <CountryName2>
+        <CountryCode>us</CountryCode>
+        <PostalCode>12345</PostalCode>
+        <CityName>Schenectady</CityName>
+    </CountryName2>
+    <CountryName3>
+        <CountryCode>ca</CountryCode>
+        <PostalCode>B2R</PostalCode>
+        <CityName>Waverley</CityName>
+    </CountryName3>
+</CountryNames>
